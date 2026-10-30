@@ -1,0 +1,257 @@
+{
+  "term": "all",
+  "open": null,
+  "subjects": [
+    {
+      "id": "mvh4i5rg2ula",
+      "name": "اللغة العربية",
+      "lessons": [
+        {
+          "id": "mvh68zx3reqt",
+          "t": "عطف النسق",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvh696dju29g",
+          "t": "البدل بانواعه",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvh69omnw7ps",
+          "t": "عطف البيان",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvh69v20bmog",
+          "t": "العدد و المعدود",
+          "done": true,
+          "term": 1
+        },
+        {
+          "id": "mvqz5q0b9vyh",
+          "t": "العدد و المعدود /2",
+          "done": true,
+          "term": 1
+        }
+      ]
+    },
+    {
+      "id": "mvh4i5rgh2os",
+      "name": "الرياضيات",
+      "lessons": [
+        {
+          "id": "mvh6a4fzk8us",
+          "t": "قاسم عدد طبيعي",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvh6aczbepzz",
+          "t": "خواص قاسم عدد طبيعي",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvh6aisfwo77",
+          "t": "PGCD",
+          "done": true,
+          "term": 1
+        },
+        {
+          "id": "mvh6anvjqgon",
+          "t": "العدادان اوليان فيما بينهما",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvh6as6n92t8",
+          "t": "الجذر التربيعي لعدد موجب",
+          "done": true,
+          "term": 1
+        },
+        {
+          "id": "mvh6b0an8afb",
+          "t": "كتابة عدد غير ناطق على شكل a b",
+          "done": true,
+          "term": 1
+        },
+        {
+          "id": "mvh6b6onomem",
+          "t": "تبسيط عبارة تتضمن جذور تربيعية",
+          "done": true,
+          "term": 1
+        },
+        {
+          "id": "mvh6bbyvw077",
+          "t": "نسبة مقامها عدد غير ناطق",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvs7o54dwu9o",
+          "t": "خاصية طالس و الخاصية العكسية",
+          "done": true,
+          "term": 1
+        },
+        {
+          "id": "mvs7p0vtngh3",
+          "t": "تقسيم قطعة مستقيم هندسيا",
+          "done": false,
+          "term": 1
+        }
+      ]
+    },
+    {
+      "id": "mvh4i5rgnprw",
+      "name": "اللغة الفرنسية",
+      "lessons": []
+    },
+    {
+      "id": "mvh4i5rgrrfg",
+      "name": "اللغة الإنجليزية",
+      "lessons": []
+    },
+    {
+      "id": "mvh4i5rg504i",
+      "name": "علوم طبيعية",
+      "lessons": [
+        {
+          "id": "mvh4lodccn24",
+          "t": "تحولات اغذية في انبوب الهضمي",
+          "done": false,
+          "term": 1
+        }
+      ]
+    },
+    {
+      "id": "mvh4i5rgkv4r",
+      "name": "التربية الإسلامية",
+      "lessons": [
+        {
+          "id": "mvh4lf60brmu",
+          "t": "سورة النبا",
+          "done": true,
+          "term": 1
+        },
+        {
+          "id": "mvs7qxwu5vbu",
+          "t": "اليمان باليوم اخر",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvs7r82cf3lp",
+          "t": "الحج احكامه و حكمه",
+          "done": false,
+          "term": 1
+        }
+      ]
+    },
+    {
+      "id": "mvh4i5rgva4i",
+      "name": "التربية المدنية",
+      "lessons": [
+        {
+          "id": "mvh4kysohj0o",
+          "t": "اصلح و الوساطة",
+          "done": true,
+          "term": 1
+        },
+        {
+          "id": "mvh4l8vcd47t",
+          "t": "دور موسسات القضاء",
+          "done": true,
+          "term": 1
+        }
+      ]
+    },
+    {
+      "id": "mvh4i5rggpq2",
+      "name": "التاريخ",
+      "lessons": [
+        {
+          "id": "mvh4k82pxvje",
+          "t": "الوثائق التاريخية",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvh780knohm6",
+          "t": "دراسة رسالة بولينياك",
+          "done": false,
+          "term": 1
+        }
+      ]
+    },
+    {
+      "id": "mvh4i5rgzrkw",
+      "name": "الجغرافيا",
+      "lessons": [
+        {
+          "id": "mvh7aflqkagl",
+          "t": "موقع الجزائر و اهميته",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvh7axdahbl5",
+          "t": "التباين و التنوع القليمي في الجزائر",
+          "done": false,
+          "term": 1
+        }
+      ]
+    },
+    {
+      "id": "mvh4i5rg7wd4",
+      "name": "الفزياء",
+      "lessons": [
+        {
+          "id": "mvs7vfmyb9hw",
+          "t": "الشحنة الكهرباية",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvs7vfmy4qk5",
+          "t": "التكهرب و اشحنة الكهرباية",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvs7vfmyblbs",
+          "t": "الفعال المتبادلة لشحنتين",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvs7vfmyu21z",
+          "t": "النموذج المبسط لذرة",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvs7vfmyjl0l",
+          "t": "التفسير المجهري لضواهر التكهرب",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvs7vfmy90o4",
+          "t": "النواقل و العوازل الكهربائية",
+          "done": false,
+          "term": 1
+        },
+        {
+          "id": "mvs7vfmyju84",
+          "t": "التيار الكهربائي المتناوب",
+          "done": false,
+          "term": 1
+        }
+      ]
+    }
+  ],
+  "ts": 1793277672054
+}
