@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<meta name="theme-color" content="#000000">
+<title>الإعدادات · متابعة دراسية</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E⚙️%3C/text%3E%3C/svg%3E">
+<script>try{var m=localStorage.getItem('tracker-4am-theme')||'dark';if(m==='light'||m==='dark')document.documentElement.setAttribute('data-theme',m)}catch(e){document.documentElement.setAttribute('data-theme','dark')}</script>
+<script src="ui.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="orbs" aria-hidden="true"><i></i><i></i><i></i></div>
+<header class="bar"><div class="bar-in"><a class="pill" href="index.html">→ الموقع</a><b class="ptitle">⚙️ الإعدادات</b><span class="tbs"></span></div></header>
+<main id="app"></main>
+<dialog id="dlg" aria-labelledby="dT"></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<input type="file" id="file" accept="application/json" hidden>
+<script src="sync.js"></script>
+<script src="settings.js"></script>
+</body>
+</html>
